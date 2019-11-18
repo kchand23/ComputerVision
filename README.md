@@ -5,3 +5,4 @@ Collection of all my projects related to Computer vision.
                   Libraries Used were OpenCV, and NumPy
 2) Edge Detection (mp2.py) : Created a Canny Edge detector, using techniques of convolution to compute the edges of any RGB Picture. 
 3) Shape recognition (mp3.py) : Used Canny edge detector, and Hough Transform to detect straight lines in a picture, which can be further used to detect shapes. 
+4) Color Based Segmentation : Used a 2d histogram model to learn from a given set of images with HSV values, and then segment any given image based on color. 
